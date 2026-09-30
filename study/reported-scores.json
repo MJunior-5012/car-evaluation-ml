@@ -1,0 +1,15 @@
+{
+  "source": "Recovered coursework report; original code unavailable",
+  "sklearn_depth_2": {
+    "train_accuracy": 0.767,
+    "test_accuracy": 0.7775
+  },
+  "sklearn_unrestricted": {
+    "train_accuracy": 1.0,
+    "test_accuracy": 0.9855
+  },
+  "original_scratch_depth_2": {
+    "test_accuracy": 0.6994
+  },
+  "status": "Historical reported metrics; distinct from current-run measurements"
+}
